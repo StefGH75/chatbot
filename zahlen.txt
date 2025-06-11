@@ -1,6 +1,0 @@
-Zufallszahlen zwischen 1 und 1000
-0 241
-1 194
-2 620
-3 168
-4 6
