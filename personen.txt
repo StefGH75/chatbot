@@ -1,0 +1,12 @@
+Anna: 30
+Bernd: 25
+Carla: 20
+Anna: 30 
+Bernd: 25 
+Carla: 20 
+Anna: 30 
+Bernd: 25 
+Carla: 20 
+Anna: 30 
+Bernd: 25 
+Carla: 20 
