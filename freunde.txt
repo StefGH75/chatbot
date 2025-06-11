@@ -1,0 +1,8 @@
+[
+    "Elisabeth",
+    "Mailin",
+    "Sandra",
+    "Susanne",
+    "Silke",
+    "Katrin"
+]

@@ -1,0 +1,4 @@
+Name: Max Mustermann, Matrikelnummer: 123456, Studiengang: Informatik
+Name: Max Mustermann, Matrikelnummer: 123456, Studiengang: Informatik
+Name: Max Mustermann, Matrikelnummer: 123456, Studiengang: Informatik
+Name: Erika Musterfrau, Matrikelnummer: 987654, Studiengang: Wirtschaftsinformatik
