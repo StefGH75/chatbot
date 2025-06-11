@@ -1,2 +1,0 @@
-Hier ist ein Beispieltext mit einigen besonderen Zeichen: 
-Neue Zeile, 	Tabulator, \Backslash, ❤Herz Emoji, 😀Grinsendes Gesicht.
